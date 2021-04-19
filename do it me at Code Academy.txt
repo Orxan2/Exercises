@@ -1,0 +1,7 @@
+20.04.2021 tarixinde code-da praktika ucun tapsiriqlar.
+--------------------------------------------------------
+C# Sharp Basic Algorithm Exercises - 1-10
+C# Sharp Data Types Exercises - 1-11
+C# Sharp Conditional Statement- 1-5
+C# Sharp For Loop - 1-10
+C# Sharp Array - 1-5
